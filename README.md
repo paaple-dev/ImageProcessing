@@ -11,6 +11,12 @@ Disk1.zip.003
 
 二、安装.Net Framework 4.6
 
+以下地址任选一个
+https://dl.pconline.com.cn/download/399819-1.html
+https://dlc2.pconline.com.cn/filedown_399819_7215969/abblynyl/pconline1477535934501.zip
+https://dlc2.pconline.com.cn/filedown_399819_7215969/abblynyl/pconline1477535934501.zip
+https://dlc2.pconline.com.cn/filedown_399819_7215968/abblynyl/pconline1477535934501.zip
+
 三、安装Photoshop_13_LS3
 
 如果没有安装包，请私聊我：paaple@foxmail.com
